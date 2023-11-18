@@ -1,7 +1,7 @@
 # Goof - Snyk's vulnerable demo app
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
-A vulnerable Node.js demo application, by  [tehran borj](https://wwww.tehran-borj.ir). developers
+A vulnerable Node.js demo application, by  [tehran borj](https://wwww.tehran-borj.ir) developers
 
 ## Features
 
